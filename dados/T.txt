@@ -1,0 +1,39 @@
+Cidade;Geral;Rend_Cap
+Varginha;0,629;0,9
+Três Pontas;0,516;0,68
+Poços de Caldas;0,632;0,95
+Alfenas;0,528;0,78
+Guaxupé;0,582;0,75
+Patrocínio;0,522;0,72
+Serra do Salitre;0,445;0,72
+Campos Gerais;0,409;0,5
+Manhuaçu;0,497;0,59
+Caratinga;0,539;0,61
+Manhumirim;0,441;0,55
+Alto Caparaó;0,352;0,51
+Linhares;0,529;0,71
+Jaguaré;0,438;0,54
+São Mateus;0,496;0,7
+Franca;0,655;0,85
+Patrocínio Paulista;0,503;0,61
+Batatais;0,554;0,94
+Espírito Santo do Pinhal;0,556;1,05
+Santo Antônio do Jardim;0,474;0,64
+São João da Boa Vista;0,614;1
+Ourinhos;0,579;0,87
+Avaré;0,57;0,85
+Barra do Choça;0,301;0,27
+Vitória da Conquista;0,544;0,56
+Planalto;0,313;0,26
+Nova Canaã;0,232;0,25
+Cacoal;0,527;0,74
+Rolim de Moura;0,51;0,66
+Ji-Paraná;0,542;0,74
+Ariquemes;0,52;0,69
+Jacarezinho;0,547;0,77
+Ribeirão Claro;0,535;0,64
+Carlópolis;0,463;0,61
+Ibaiti;0,529;0,79
+Abatiá;0,438;0,54
+Joaquim Távora;0,496;0,62
+Pinhalão;0,403;0,55
